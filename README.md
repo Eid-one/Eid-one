@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eid-one
+- 👋 Hi, I’m @Eid  Aden
 - 👀 I’m interested in ... frondend Devoloper
 - 🌱 I’m currently learning ...  HTML CSS  JS
 - 💞️ I’m looking to collaborate on ... Coding challenge
